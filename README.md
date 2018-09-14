@@ -1,1 +1,2 @@
-"# TrendAI" 
+# TrendAI
+### Titanic
